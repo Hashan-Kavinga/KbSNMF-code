@@ -10,4 +10,4 @@ This package contains the MATLAB codes for the algorithm presented in the paper 
 
 #### Publication ####
 IEEE JSTARS (Early Access) https://ieeexplore.ieee.org/document/9609564.
-Please cite the paper if you find this MATLAB code helpful. Thank you for reading our work.
+Please cite the paper if you find this MATLAB code helpful.
